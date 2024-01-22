@@ -1,0 +1,34 @@
+"battery": {
+  "states": {
+      "good": 95,
+      "warning": 30,
+      "critical": 20
+  },
+  "full-at": 90,
+  "format": "| {icon} {capacity}%",
+  "format-charging": "| {icon} {capacity}%",
+  "format-plugged": "| {icon} {capacity}%",
+  "format-alt": "| {time} {icon}",
+  "format-icons": {
+      "default": ["󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
+      "charging": ["", "", "", "", "", "","", ""],
+      "plugged": ""
+  }
+},
+"battery#keyboard": {
+  "bat": "hid-dc:2c:26:28:51:5d-battery",
+  "states": {
+      "good": 95,
+      "warning": 30,
+      "critical": 20
+  },
+  "format": "| ⌨ {icon} {capacity}%",
+  "format-charging": "| ⌨ {icon} {capacity}%",
+  "format-plugged": "| ⌨ {icon} {capacity}%",
+  "format-alt": "| ⌨ {time} {icon}",
+  "format-icons": {
+      "default": ["󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
+      "charging": ["", "", "", "", "", "","", ""],
+      "plugged": ""
+  }
+},
