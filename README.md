@@ -26,7 +26,7 @@ This project is a custom theme for the Hyprland desktop environment with Hyperdo
 > install this theme using themepatcher
 
 ```sh
-./themepatcher.sh  'HyDa4 'https://github.com/Da4ndo/HyDa4'
+./themepatcher.sh  'HyDa4' 'https://github.com/Da4ndo/HyDa4'
 ```
 
 ## 🔄 Changelog
