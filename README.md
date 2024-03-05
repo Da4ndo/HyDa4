@@ -6,7 +6,7 @@
 <div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyprdots_banner.png"><br><br></div>
 
 > [!CAUTION]
-> ⚠️ **Important Announcement** ⚠️  
+> :warning: **Important Announcement** :warning: 
 > This repository is currently facing issues due to the new update of QT (QT6) and is under maintenance. We are working diligently to fix the problems and will update the repository as soon as possible. Thank you for your patience.
 
 
