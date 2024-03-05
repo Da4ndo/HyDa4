@@ -5,6 +5,12 @@
 
 <div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyprdots_banner.png"><br><br></div>
 
+<div align="center" style="background-color: red; color: white; border-radius: 10px;">
+  <h2>⚠️ Important Announcement ⚠️</h2>
+  <p style="font-size: 18px;">This repository is currently facing issues due to the new update of QT (QT6) and is under maintenance. We are working diligently to fix the problems and will update the repository as soon as possible. Thank you for your patience.</p>
+</div>
+
+
 # Custom Theme for Hyprland 😎 [v1.1]
 
 > [!IMPORTANT]
